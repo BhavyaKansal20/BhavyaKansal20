@@ -168,18 +168,7 @@ Portfolio  : bhavyakansal.dev
 
 ---
 
-<!-- TROPHIES -->
-<div align="center">
 
-## 🏆 &nbsp; GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=BhavyaKansal20&theme=shadow_green&no-frame=false&no-bg=false&margin-w=6&column=7)](https://github.com/BhavyaKansal20)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
 
 <!-- SNAKE ANIMATION -->
 <div align="center">
@@ -198,44 +187,6 @@ Portfolio  : bhavyakansal.dev
 
 ---
 
-<!-- TOP CONTRIBUTED REPOS -->
-<div align="center">
-
-## 🔝 &nbsp; Top Contributions
-
-[![Top Repos](https://github-contributor-stats.vercel.app/api?username=BhavyaKansal20&limit=5&theme=shadow_green&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9&border_color=00ffcc30)](https://github.com/BhavyaKansal20)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-<!-- RANDOM DEV QUOTE -->
-<div align="center">
-
-## ✍️ &nbsp; Dev Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-<!-- 3D CONTRIBUTION CALENDAR -->
-<div align="center">
-
-## 🌌 &nbsp; 3D Contribution Calendar
-
-[![3D Contribution Calendar](https://github-readme-3d-contrib.vercel.app/api?username=BhavyaKansal20&dark=true)](https://github.com/BhavyaKansal20)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
 
 <!-- FOOTER -->
 <div align="center">
