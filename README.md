@@ -186,19 +186,3 @@ Portfolio  : bhavyakansal.dev
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
-
-
-<!-- FOOTER -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Let%27s%20Build%20the%20Future&fontSize=28&fontColor=00ffcc&animation=twinkling" width="100%"/>
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=BhavyaKansal20&icon=4&color=0)](https://visitcount.itsvg.in)
-&nbsp;&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=BhavyaKansal20&label=Profile+Views&color=00ffcc&style=plastic)](https://github.com/BhavyaKansal20)
-
-<br/>
-
-*"The ones who are crazy enough to think they can change the world, are the ones who do."*
-
-</div>
