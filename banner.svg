@@ -1,0 +1,87 @@
+<svg width="900" height="145" viewBox="0 0 900 145" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow-hard" x="-20%" y="-60%" width="140%" height="220%">
+      <feGaussianBlur stdDeviation="5" in="SourceGraphic" result="blur1"/>
+      <feGaussianBlur stdDeviation="12" in="SourceGraphic" result="blur2"/>
+      <feGaussianBlur stdDeviation="22" in="SourceGraphic" result="blur3"/>
+      <feMerge>
+        <feMergeNode in="blur3"/>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0369a1"/>
+      <stop offset="35%"  stop-color="#0d9488"/>
+      <stop offset="65%"  stop-color="#0891b2"/>
+      <stop offset="100%" stop-color="#0369a1"/>
+    </linearGradient>
+
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0d1117"/>
+      <stop offset="50%"  stop-color="#080e18"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+
+    <pattern id="scanlines" x="0" y="0" width="900" height="3" patternUnits="userSpaceOnUse">
+      <rect width="900" height="1" y="0" fill="#0d9488" opacity="0.03"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="145" fill="url(#bgGrad)"/>
+  <rect width="900" height="145" fill="url(#scanlines)"/>
+
+  <ellipse cx="450" cy="65" rx="400" ry="55" fill="#0d9488" opacity="0.02">
+    <animate attributeName="rx" values="360;420;360" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.01;0.04;0.01" dur="4s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <rect x="0" y="0"   width="900" height="2" fill="#0d9488" opacity="0.6"/>
+  <rect x="0" y="143" width="900" height="2" fill="#0d9488" opacity="0.6"/>
+
+  <path d="M0 0 L70 0 L70 5 L5 5 L5 65 L0 65 Z"               fill="#0d9488" opacity="0.7"/>
+  <path d="M900 0 L830 0 L830 5 L895 5 L895 65 L900 65 Z"      fill="#0d9488" opacity="0.7"/>
+  <path d="M0 145 L70 145 L70 140 L5 140 L5 80 L0 80 Z"        fill="#0d9488" opacity="0.7"/>
+  <path d="M900 145 L830 145 L830 140 L895 140 L895 80 L900 80 Z" fill="#0d9488" opacity="0.7"/>
+
+  <circle cx="92"  cy="72" r="3.5" fill="#0d9488">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="808" cy="72" r="3.5" fill="#0d9488">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <line x1="100" y1="72" x2="165" y2="72" stroke="#0d9488" stroke-width="1" opacity="0.35"/>
+  <line x1="735" y1="72" x2="800" y2="72" stroke="#0d9488" stroke-width="1" opacity="0.35"/>
+
+  <text x="450" y="82"
+    text-anchor="middle"
+    font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif"
+    font-size="60" font-weight="900" letter-spacing="10"
+    fill="#0d9488" filter="url(#glow-hard)" opacity="0.4">BHAVYA KANSAL
+    <animate attributeName="opacity" values="0.25;0.55;0.25" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="450" y="82"
+    text-anchor="middle"
+    font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif"
+    font-size="60" font-weight="900" letter-spacing="10"
+    fill="url(#nameGrad)">BHAVYA KANSAL</text>
+
+  <line x1="155" y1="114" x2="290" y2="114" stroke="#0d9488" stroke-width="0.8" opacity="0.3"/>
+  <line x1="610" y1="114" x2="745" y2="114" stroke="#0d9488" stroke-width="0.8" opacity="0.3"/>
+
+  <text x="450" y="119"
+    text-anchor="middle"
+    font-family="'Courier New', Courier, monospace"
+    font-size="11" fill="#334155" letter-spacing="5">AI SYSTEMS ARCHITECT  ·  FOUNDER, MULTIMODEX AI  ·  INDIA</text>
+
+  <rect x="125" y="110" width="4" height="4" fill="#0d9488" opacity="0.4">
+    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="771" y="110" width="4" height="4" fill="#0d9488" opacity="0.4">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="2.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
