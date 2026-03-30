@@ -1,6 +1,6 @@
 ## Hi there, I AM Bhavya Kansal 👋🏼🧠
 
-<a href="#"><img src="./image.jpeg" align="right" height="220" style="border-radius:50%;" /></a>
+<a href="#"><img src="./image.png" align="right" height="220" style="border-radius:50%;" /></a>
 
 AI Systems Architect • Builder • AI/ML Engineer 🚀  
 
