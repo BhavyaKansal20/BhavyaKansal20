@@ -2,7 +2,7 @@
 <tr>
 <td valign="top" width="72%">
 
-<h1>Bhavya Kansal &nbsp;👋🏼</h1>
+<img src="./name.svg" alt="Bhavya Kansal" height="62" /> &nbsp;
 
 **AI Systems Architect &nbsp;·&nbsp; Builder &nbsp;·&nbsp; AI/ML Engineer**
 
