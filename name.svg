@@ -1,11 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="72" viewBox="0 0 520 72">
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="90" viewBox="0 0 620 90">
   <text
     x="0"
-    y="54"
+    y="28"
     font-family="Georgia, 'Times New Roman', 'Palatino Linotype', Palatino, serif"
-    font-size="52"
+    font-size="18"
+    font-weight="400"
+    font-style="italic"
+    fill="#aaaaaa"
+    letter-spacing="2"
+  >Hi there, I am</text>
+  <text
+    x="0"
+    y="80"
+    font-family="Georgia, 'Times New Roman', 'Palatino Linotype', Palatino, serif"
+    font-size="56"
     font-weight="700"
     fill="#ffffff"
-    letter-spacing="-0.5"
+    letter-spacing="-1"
   >Bhavya Kansal</text>
 </svg>
