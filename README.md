@@ -101,10 +101,12 @@ Building real-world AI systems &nbsp;·&nbsp; Scaling ML to production &nbsp;·&
 ## 🔥 &nbsp;Projects in Production
 
 | 🧠 Project | 🔧 Stack | 🌐 |
-|:-----------|:---------|:--:|
+|:----------------|:---------|:--:|
 | **🫀 Healthy AI** &nbsp;—&nbsp; 10-Year Heart Disease Risk Prediction | Flask · Gradient Boosting · PDF Reports · Admin Panel | [![Live](https://img.shields.io/badge/Live-white?style=plastic&logo=render&logoColor=black)](https://healthyai-dlog.onrender.com) |
 | **🤟 SignLang AI** &nbsp;—&nbsp; Indian Sign Language Recognition (ISL) | PyTorch LSTM · MediaPipe · Flask · Google Sheets | [![Live](https://img.shields.io/badge/Live-white?style=plastic&logo=render&logoColor=black)](https://kansal0920-signlang-ai.hf.space) |
 | **🕵️ Deepfake Scanner AI** &nbsp;—&nbsp; Real-Time Deepfake Detection | CNN · Deep Learning · Streamlit | [![Live](https://img.shields.io/badge/Live-white?style=plastic&logo=render&logoColor=black)](https://kansal0920-deepfake-scanner.hf.space) |
+| **🤖 Machine Learning Repo** &nbsp;—&nbsp; Jupyter Notebooks of ML Concepts | Supervised · Unsupervised · Notebooks · ML Models |      [![Repo](https://img.shields.io/badge/Repo-black?style=plastic&logo=github)](https://github.com/BhavyaKansal20/MachineLearning.git) |
+| **📚 Datasets Repo** &nbsp;—&nbsp; CSV Format Datasets of Diffrent Categories | CSV · ML · Data Science · Categorical |      [![Repo](https://img.shields.io/badge/Repo-black?style=plastic&logo=github)](https://github.com/BhavyaKansal20/Datasets.git) |
 | **😶 NeuroLock AI v2** &nbsp;—&nbsp; Emotion Recognition & Classroom Analytics | OpenCV · MobileNetV2 · WebSockets · SQLite | [![Repo](https://img.shields.io/badge/Repo-black?style=plastic&logo=github)](https://github.com/BhavyaKansal20/NeuroLock-AI) |
 | **🔢 Digit Recognition** &nbsp;—&nbsp; Real-Time Handwritten Digit Classifier | PyTorch · CNN · OpenCV | [![Repo](https://img.shields.io/badge/Repo-black?style=plastic&logo=github)](https://github.com/BhavyaKansal20/Digit-Recognition) |
 | **💬 Emotion Detector AI** &nbsp;—&nbsp; Real-Time Facial Emotion Engine | TensorFlow · FER · Flask | [![Repo](https://img.shields.io/badge/Repo-black?style=plastic&logo=github)](https://github.com/BhavyaKansal20/Emotion-Detector-AI) |
