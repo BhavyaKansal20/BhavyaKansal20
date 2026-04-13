@@ -23,12 +23,14 @@ I build AI systems that actually ship — not just models, but complete producti
 
 ---
 
+
 ### ⚡ &nbsp;About Me
 
 - 🧠 &nbsp;Architecting **end-to-end AI systems** — CV · GenAI · Automation
 - ⚙️ &nbsp;Turning cutting-edge research into **real-world products**
 - 🚀 &nbsp;Currently building **Multimodex AI**
 - 💼 &nbsp;Former Intern @ **IITR** &nbsp;|&nbsp; **NIELIT**
+
 
 ---
 
@@ -55,7 +57,9 @@ I build AI systems that actually ship — not just models, but complete producti
 
 <br> 
 
+
 ---
+
 
 ### 🚀 &nbsp;What I Build
 
@@ -72,7 +76,9 @@ I build AI systems that actually ship — not just models, but complete producti
 
 </div>
 
+
 ---
+
 
 ### 🧠 &nbsp;Tech Focus
 
@@ -83,22 +89,29 @@ Frontend       →   React  ·  Next.js  ·  Tailwind
 Infra          →   Docker  ·  PostgreSQL  ·  Cloud
 ```
 
+
 ---
+
 
 ### 💬 &nbsp;Ask Me About
 
 Building real-world AI systems &nbsp;·&nbsp; Scaling ML to production &nbsp;·&nbsp; Deep learning architectures &nbsp;·&nbsp; Startup-level AI product thinking
 
+
 ---
+
 
 > **AI is not about models.**  
 > **It's about systems that work in the real world.**
 
+
 ---
+
+
 
 <div align="center">
 
-## 🔥 &nbsp;Projects in Production
+## **🔥 &nbsp;Projects in Production**
 
 | 🧠 Project | 🔧 Stack | 🌐 |
 |:----------------|:---------|:--:|
@@ -113,7 +126,9 @@ Building real-world AI systems &nbsp;·&nbsp; Scaling ML to production &nbsp;·&
 
 </div>
 
+
 ---
+
 
 <div align="center">
 
@@ -168,7 +183,9 @@ Building real-world AI systems &nbsp;·&nbsp; Scaling ML to production &nbsp;·&
 
 </div>
 
+
 ---
+
 
 <div align="center">
 
