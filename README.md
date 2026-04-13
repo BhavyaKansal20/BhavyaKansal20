@@ -4,13 +4,13 @@
 
 <img src="./name.svg" alt="Hi there, I am Bhavya Kansal" height="110" />
 
-**AI Systems Architect &nbsp;·&nbsp; Builder &nbsp;·&nbsp; AI/ML Engineer**
+**AI/ML Engineer &nbsp;·&nbsp; Deep Tech Developer &nbsp;·&nbsp; AI Systems Architect**
 
-I build AI systems that actually ship — not just models, but complete production-ready intelligence pipelines.
+I build AI systems that actually ship — not just models, but complete production-ready intelligence pipelines 🚀.
 
 <br>
 
-`IITR Intern` &nbsp;`NIELIT Intern` &nbsp;`TIET '29` &nbsp;`Patiala, Punjab 🇮🇳`
+**IITR x NIELIT Ropar Intern'26 &nbsp;·&nbsp; TIET '29 📚 &nbsp;·&nbsp; Patiala, Punjab 🇮🇳**
 
 </td>
 <td valign="top" align="right" width="28%">
@@ -32,10 +32,15 @@ I build AI systems that actually ship — not just models, but complete producti
 
 ---
 
+  
 ### 🌐 &nbsp;Connect
 
+<table width="100%" border="50" cellspacing="50" cellpadding="50">
+<tr>
+<td valign="top" width="50%">
+  
 <div align="center">
-<a href="https://bhavyakansal.dev"><img src="https://img.icons8.com/fluency/96/domain.png" width="52" height="52"/></a>
+<a href="https://bhavyakansal.dev"><img src="favicon.png" width="52" height="52"/></a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/bhavya-kansal"><img src="https://img.icons8.com/fluency/96/linkedin.png" width="52" height="52"/></a>
 &nbsp;&nbsp;
@@ -43,6 +48,12 @@ I build AI systems that actually ship — not just models, but complete producti
 &nbsp;&nbsp;
 <a href="mailto:kansalbhavya27@gmail.com"><img src="https://img.icons8.com/fluency/96/gmail-new.png" width="52" height="52"/></a>
 </div>
+
+</td>
+</tr>
+</table>
+
+<br> 
 
 ---
 
