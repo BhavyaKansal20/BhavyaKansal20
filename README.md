@@ -35,25 +35,14 @@ I build AI systems that actually ship — not just models, but complete producti
 ---
 
   
-### 🌐 &nbsp;Connect
+### 🌐 Connect
 
-<table width="100%" border="50" cellspacing="50" cellpadding="50">
-<tr>
-<td valign="top" width="50%">
-  
-<div align="center">
-<a href="https://bhavyakansal.dev"><img src="favicon.png" width="52" height="52"/></a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/bhavya-kansal"><img src="https://img.icons8.com/fluency/96/linkedin.png" width="52" height="52"/></a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/kansal.ai"><img src="https://img.icons8.com/fluency/96/instagram-new.png" width="52" height="52"/></a>
-&nbsp;&nbsp;
-<a href="mailto:kansalbhavya27@gmail.com"><img src="https://img.icons8.com/fluency/96/gmail-new.png" width="52" height="52"/></a>
-</div>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://bhavyakansal.dev"><img src="favicon.png" width="52"/></a>
+  <a href="https://linkedin.com/in/bhavya-kansal"><img src="https://img.icons8.com/fluency/96/linkedin.png" width="52"/></a>
+  <a href="https://instagram.com/kansal.ai"><img src="https://img.icons8.com/fluency/96/instagram-new.png" width="52"/></a>
+  <a href="mailto:kansalbhavya27@gmail.com"><img src="https://img.icons8.com/fluency/96/gmail-new.png" width="52"/></a>
+</p>
 
 <br> 
 
