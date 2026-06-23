@@ -10,7 +10,7 @@ I build AI systems that actually ship — not just models, but complete producti
 
 <br>
 
-**IITR x NIELIT Ropar Intern'26 &nbsp;·&nbsp; TIET '29 📚 &nbsp;·&nbsp; Patiala, Punjab 🇮🇳**
+**TIET '29 📚 &nbsp;·&nbsp; Ex-Intern @ IITRPR × NIELIT Ropar &nbsp;·&nbsp; Patiala, Punjab 🇮🇳**
 
 </td>
 <td valign="top" align="right" width="28%">
@@ -21,21 +21,26 @@ I build AI systems that actually ship — not just models, but complete producti
 
 <br>
 
+
 ---
 
+<div align="center">
 
-### ⚡ &nbsp;About Me
+## **⚡ &nbsp;About Me**
+
+</div>
 
 - 🧠 &nbsp;Architecting **end-to-end AI systems** — CV · GenAI · Automation
 - ⚙️ &nbsp;Turning cutting-edge research into **real-world products**
 - 🚀 &nbsp;Currently building **Multimodex AI**
-- 💼 &nbsp;Former Intern @ **IITR** &nbsp;|&nbsp; **NIELIT**
+- 💼 &nbsp;Former Intern @ **IITRPR** &nbsp;|&nbsp; **NIELIT Ropar**
 
 
 ---
 
-  
-### 🌐 Connect
+<div align="center">
+
+## **🌐 &nbsp;Connect**
 
 <p align="center">
   <a href="https://bhavyakansal.dev"><img src="favicon.png" width="52"/></a>
@@ -44,19 +49,21 @@ I build AI systems that actually ship — not just models, but complete producti
   <a href="mailto:kansalbhavya27@gmail.com"><img src="https://img.icons8.com/fluency/96/gmail-new.png" width="52"/></a>
 </p>
 
-<br> 
+</div>
+
+<br>
 
 
 ---
 
-
-### 🚀 &nbsp;What I Build
-
 <div align="center">
+
+## **🚀 &nbsp;What I Build**
 
 | Project | Focus |
 | :--- | :--- |
 | 🫀 &nbsp;**Healthy AI** | Heart Disease Prediction System |
+| 🎨 &nbsp;**ChromaCrystal UHD** | 5-Stage AI Image Colorization & Restoration |
 | 🤟 &nbsp;**SignLang AI** | Indian Sign Language Recognition |
 | 😶 &nbsp;**NeuroLock AI** | Emotion + Classroom Intelligence |
 | 🕵️ &nbsp;**DeepFake AI** | Real-Time AI Detector — Image · Video · Audio |
@@ -68,23 +75,49 @@ I build AI systems that actually ship — not just models, but complete producti
 
 ---
 
+<div align="center">
 
-### 🧠 &nbsp;Tech Focus
+## **🧠 &nbsp;Tech Focus**
 
-```
-AI / ML / DL   →   PyTorch  ·  TensorFlow  ·  OpenCV  ·  Scikit-learn
-Backend        →   FastAPI  ·  Flask  ·  Node.js
-Frontend       →   React  ·  Next.js  ·  Tailwind
-Infra          →   Docker  ·  PostgreSQL  ·  Cloud
-```
+<br>
+
+<table border="0" cellpadding="16">
+<tr>
+<td align="center">
+<b>🤖 AI / ML / DL</b><br><br>
+<code>PyTorch</code> &nbsp; <code>TensorFlow</code> &nbsp; <code>OpenCV</code><br>
+<code>Scikit-learn</code> &nbsp; <code>MediaPipe</code> &nbsp; <code>CUDA</code>
+</td>
+<td align="center">
+<b>⚙️ Backend</b><br><br>
+<code>FastAPI</code> &nbsp; <code>Flask</code><br>
+<code>Node.js</code> &nbsp; <code>NestJS</code>
+</td>
+<td align="center">
+<b>⚡ Frontend</b><br><br>
+<code>Next.js 15</code> &nbsp; <code>React</code><br>
+<code>Tailwind CSS</code> &nbsp; <code>TypeScript</code>
+</td>
+<td align="center">
+<b>🗄️ Infra & Cloud</b><br><br>
+<code>Docker</code> &nbsp; <code>PostgreSQL</code><br>
+<code>Vercel</code> &nbsp; <code>Hugging Face</code>
+</td>
+</tr>
+</table>
+
+</div>
 
 
 ---
 
+<div align="center">
 
-### 💬 &nbsp;Ask Me About
+## **💬 &nbsp;Ask Me About**
 
 Building real-world AI systems &nbsp;·&nbsp; Scaling ML to production &nbsp;·&nbsp; Deep learning architectures &nbsp;·&nbsp; Startup-level AI product thinking
+
+</div>
 
 
 ---
@@ -97,18 +130,18 @@ Building real-world AI systems &nbsp;·&nbsp; Scaling ML to production &nbsp;·&
 ---
 
 
-
 <div align="center">
 
-## **🔥 &nbsp;Projects in Production**
+## **🔥 &nbsp;Featured Projects**
 
 | 🧠 Project | 🔧 Stack | 🌐 |
 |:----------------|:---------|:--:|
 | **🫀 Healthy AI** &nbsp;—&nbsp; 10-Year Heart Disease Risk Prediction | Flask · Gradient Boosting · PDF Reports · Admin Panel | [![Live](https://img.shields.io/badge/Live-white?style=plastic&logo=render&logoColor=black)](https://healthyai-dlog.onrender.com) |
+| **🎨 ChromaCrystal UHD** &nbsp;—&nbsp; 5-Stage AI Image Colorization & Restoration | FastAPI · Next.js 15 · DDColor · GFPGAN · Real-ESRGAN · Docker | [![Live](https://img.shields.io/badge/Live-white?style=plastic&logo=huggingface&logoColor=black)](https://bhavyakansal20-chromacrystal-uhd.hf.space/) |
 | **🤟 SignLang AI** &nbsp;—&nbsp; Indian Sign Language Recognition (ISL) | PyTorch LSTM · MediaPipe · Flask · Google Sheets | [![Live](https://img.shields.io/badge/Live-white?style=plastic&logo=render&logoColor=black)](https://kansal0920-signlang-ai.hf.space) |
 | **🕵️ Deepfake Scanner AI** &nbsp;—&nbsp; Real-Time Deepfake Detection | CNN · Deep Learning · Streamlit | [![Live](https://img.shields.io/badge/Live-white?style=plastic&logo=render&logoColor=black)](https://kansal0920-deepfake-scanner.hf.space) |
-| **🤖 Machine Learning Repo** &nbsp;—&nbsp; Jupyter Notebooks of ML Concepts | Supervised · Unsupervised · Notebooks · ML Models |      [![Repo](https://img.shields.io/badge/Repo-black?style=plastic&logo=github)](https://github.com/BhavyaKansal20/MachineLearning.git) |
-| **📚 Datasets Repo** &nbsp;—&nbsp; CSV Format Datasets of Diffrent Categories | CSV · ML · Data Science · Categorical |      [![Repo](https://img.shields.io/badge/Repo-black?style=plastic&logo=github)](https://github.com/BhavyaKansal20/Datasets.git) |
+| **🤖 Machine Learning Repo** &nbsp;—&nbsp; Jupyter Notebooks of ML Concepts | Supervised · Unsupervised · Notebooks · ML Models | [![Repo](https://img.shields.io/badge/Repo-black?style=plastic&logo=github)](https://github.com/BhavyaKansal20/MachineLearning.git) |
+| **📚 Datasets Repo** &nbsp;—&nbsp; CSV Format Datasets of Different Categories | CSV · ML · Data Science · Categorical | [![Repo](https://img.shields.io/badge/Repo-black?style=plastic&logo=github)](https://github.com/BhavyaKansal20/Datasets.git) |
 | **😶 NeuroLock AI v2** &nbsp;—&nbsp; Emotion Recognition & Classroom Analytics | OpenCV · MobileNetV2 · WebSockets · SQLite | [![Repo](https://img.shields.io/badge/Repo-black?style=plastic&logo=github)](https://github.com/BhavyaKansal20/NeuroLock-AI) |
 | **🔢 Digit Recognition** &nbsp;—&nbsp; Real-Time Handwritten Digit Classifier | PyTorch · CNN · OpenCV | [![Repo](https://img.shields.io/badge/Repo-black?style=plastic&logo=github)](https://github.com/BhavyaKansal20/Digit-Recognition) |
 | **💬 Emotion Detector AI** &nbsp;—&nbsp; Real-Time Facial Emotion Engine | TensorFlow · FER · Flask | [![Repo](https://img.shields.io/badge/Repo-black?style=plastic&logo=github)](https://github.com/BhavyaKansal20/Emotion-Detector-AI) |
@@ -121,7 +154,7 @@ Building real-world AI systems &nbsp;·&nbsp; Scaling ML to production &nbsp;·&
 
 <div align="center">
 
-## 💻 &nbsp;Tech Arsenal
+## **💻 &nbsp;Tech Arsenal**
 
 ### 🤖 &nbsp;AI / ML / DL
 
@@ -178,7 +211,30 @@ Building real-world AI systems &nbsp;·&nbsp; Scaling ML to production &nbsp;·&
 
 <div align="center">
 
-## 📈 &nbsp;Contribution Matrix
+## **📊 &nbsp;GitHub Analytics**
+
+<br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BhavyaKansal20&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavyaKansal20&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&langs_count=8" />
+
+<br><br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=BhavyaKansal20&theme=dark&hide_border=true&background=0d1117&stroke=00ffcc&ring=00ffcc&fire=ff6b6b&currStreakLabel=00ffcc&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa)](https://github.com/BhavyaKansal20)
+
+<br>
+
+
+
+</div>
+
+
+---
+
+
+<div align="center">
+
+## **📈 &nbsp;Contribution Matrix**
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BhavyaKansal20&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&area_color=00ffcc20&hide_border=false&border_color=00ffcc30&custom_title=Bhavya%27s%20Contribution%20Graph)](https://github.com/BhavyaKansal20)
 
