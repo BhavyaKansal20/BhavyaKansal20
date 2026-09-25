@@ -6,7 +6,7 @@ async function run() {
   });
   
   try {
-    const res = await fetch('https://github.com', {
+    const res = await fetch('https://api.github.com/graphql', {
       method: 'POST',
       headers: {
         'Authorization': 'Bearer ' + process.env.GRAPH_TOKEN,
@@ -15,7 +15,12 @@ async function run() {
       },
       body: query
     });
-    
+
+    if (!res.ok) {
+      const errorText = await res.text();
+      throw new Error(`GitHub GraphQL request failed (${res.status}): ${errorText.slice(0, 300)}`);
+    }
+
     const body = await res.json();
     if (!body.data || !body.data.user) {
       throw new Error(JSON.stringify(body));
