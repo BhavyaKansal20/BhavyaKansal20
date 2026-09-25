@@ -215,16 +215,10 @@ Building real-world AI systems &nbsp;·&nbsp; Scaling ML to production &nbsp;·&
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BhavyaKansal20&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavyaKansal20&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&langs_count=8" />
+<img height="180em" src="./github-stats.svg" alt="GitHub Stats" />
+<img height="180em" src="./top-langs.svg" alt="Top Languages" />
 
 <br><br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=BhavyaKansal20&theme=dark&hide_border=true&background=0d1117&stroke=00ffcc&ring=00ffcc&fire=ff6b6b&currStreakLabel=00ffcc&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa)](https://github.com/BhavyaKansal20)
-
-<br>
-
-
 
 </div>
 

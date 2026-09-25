@@ -1,4 +1,4 @@
-name: Generate Custom Contribution Graph
+name: Generate Custom GitHub Stats & Graphs
 
 on:
   schedule:
@@ -20,15 +20,15 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Fetch Data and Generate SVG Graph
+      - name: Fetch Data and Generate SVG Graphs
         env:
           GRAPH_TOKEN: ${{ secrets.GRAPH_TOKEN }}
-        run: node generate-graph.js
+        run: node generate-stats.js
 
-      - name: Commit and Push Generated Image
+      - name: Commit and Push Generated Images
         run: |
           git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@://github.com'
-          git add activity-graph.svg
-          git commit -m "Automated update of activity graph" || exit 0
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add github-stats.svg top-langs.svg activity-graph.svg
+          git commit -m "Automated update of custom analytics and graphs" || exit 0
           git push
