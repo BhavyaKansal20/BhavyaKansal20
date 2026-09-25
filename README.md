@@ -4,13 +4,13 @@
 
 <img src="./name.svg" alt="Hi there, I am Bhavya Kansal" height="110" />
 
-**AI/ML Engineer &nbsp;·&nbsp; Deep Tech Developer &nbsp;·&nbsp; AI Systems Architect**
+**AI/ML Dev & Researcher &nbsp;·&nbsp; Deep Tech Innovator &nbsp;·&nbsp; AI Systems Architect**
 
 I build AI systems that actually ship — not just models, but complete production-ready intelligence pipelines 🚀.
 
 <br>
 
-**TIET '29 📚 &nbsp;·&nbsp; Ex-Intern @ IITRPR × NIELIT Ropar &nbsp;·&nbsp; Patiala, Punjab 🇮🇳**
+**TIET '29 🎓 &nbsp;·&nbsp; Ex-Intern @ IITR Ropar &nbsp;·&nbsp; Patiala, Punjab 🇮🇳**
 
 </td>
 <td valign="top" align="right" width="28%">
@@ -30,10 +30,10 @@ I build AI systems that actually ship — not just models, but complete producti
 
 </div>
 
-- 🧠 &nbsp;Architecting **end-to-end AI systems** — CV · GenAI · Automation
+- 🧠 &nbsp;Active Researcher in field of **Gen AI in Healthcare & Robotics**
 - ⚙️ &nbsp;Turning cutting-edge research into **real-world products**
-- 🚀 &nbsp;Currently building **Multimodex AI**
-- 💼 &nbsp;Former Intern @ **IITRPR** &nbsp;|&nbsp; **NIELIT Ropar**
+- 🚀 &nbsp;Founder **Multimodex AI**
+- 💼 &nbsp;Former Intern @ **IIT Ropar** &nbsp;|&nbsp; **@ NIELIT Ropar**
 
 
 ---
@@ -44,8 +44,8 @@ I build AI systems that actually ship — not just models, but complete producti
 
 <p align="center">
   <a href="https://bhavyakansal.dev"><img src="favicon.png" width="52"/></a>
-  <a href="https://linkedin.com/in/bhavya-kansal"><img src="https://img.icons8.com/fluency/96/linkedin.png" width="52"/></a>
-  <a href="https://instagram.com/kansal.ai"><img src="https://img.icons8.com/fluency/96/instagram-new.png" width="52"/></a>
+  <a href="www.linkedin.com/in/kansal20"><img src="https://img.icons8.com/fluency/96/linkedin.png" width="52"/></a>
+  <a href="https://instagram.com/_kansal20"><img src="https://img.icons8.com/fluency/96/instagram-new.png" width="52"/></a>
   <a href="mailto:kansalbhavya27@gmail.com"><img src="https://img.icons8.com/fluency/96/gmail-new.png" width="52"/></a>
 </p>
 
