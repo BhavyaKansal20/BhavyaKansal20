@@ -235,7 +235,7 @@ async function run() {
     
     fillD += ` L ${pointsArray[pointsArray.length - 1].x} ${height - padding} Z`;
 
-    const activitySvg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${width} ${height}" width="100%" height="100%" style="background:#0d1117; font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; border-radius:12px; border:1px solid rgba(0,255,204,0.3);">
+    const activitySvg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${width} ${height}" width="${width}" height="${height}" style="background:#0d1117; font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; border-radius:12px; border:1px solid rgba(0,255,204,0.3);">
       <text x="30" y="30" fill="#00ffcc" font-size="16" font-weight="bold" letter-spacing="1">📈 Contribution Activity (Last 60 Days)</text>
       <defs>
         <linearGradient id="glowArea" x1="0" y1="0" x2="0" y2="1">
