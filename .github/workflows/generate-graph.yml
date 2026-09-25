@@ -5,6 +5,9 @@ on:
     - cron: '0 */6 * * *' # Automatically updates every 6 hours
   workflow_dispatch: # Allows you to run it manually anytime
 
+permissions:
+  contents: write # Explicitly grants permission to push files back to your repo
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -61,6 +64,26 @@ jobs:
               <defs>
                 <linearGradient id=\"glow\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\">
                   <stop offset=\"0%\" stop-color=\"#00ffcc\" stop-opacity=\"0.25\"/>
+                  <stop offset=\"100%\" stop-color=\"#00ffcc\" stop-opacity=\"0.0\"/>
+                </linearGradient>
+              </defs>
+              <polygon points=\"\${areaPoints}\" fill=\"url(#glow)\" />
+              <polyline fill=\"none\" stroke=\"#00ffcc\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" points=\"\${points.trim()}\" />
+              <line x1=\"20\" y1=\"100\" x2=\"\${currentX}\" y2=\"100\" stroke=\"#ffffff\" stroke-opacity=\"0.1\" stroke-width=\"1\" />
+            </svg>\`;
+            
+            fs.writeFileSync('activity-graph.svg', svg);
+          }
+          run();
+          "
+
+      - name: Commit and Push Generated Image
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@://github.com'
+          git add activity-graph.svg
+          git commit -m "Automated update of activity graph" || exit 0
+          git push
                   <stop offset=\"100%\" stop-color=\"#00ffcc\" stop-opacity=\"0.0\"/>
                 </linearGradient>
               </defs>
