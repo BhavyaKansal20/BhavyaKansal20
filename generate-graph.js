@@ -6,15 +6,32 @@ async function run() {
   });
   
   try {
-    const res = await fetch('https://github.com', {
-      method: 'POST',
-      headers: {
-        'Authorization': 'Bearer ' + process.env.GRAPH_TOKEN,
-        'Content-Type': 'application/json',
-        'User-Agent': 'node'
-      },
-      body: query
-    });
+    const res = await fetch('https://api.github.com/graphql', {
+  method: 'POST',
+  headers: {
+    Authorization: `Bearer ${process.env.GRAPH_TOKEN}`,
+    Accept: 'application/vnd.github+json',
+    'Content-Type': 'application/json',
+    'User-Agent': 'generate-contribution-graph'
+  },
+  body: JSON.stringify({
+    query: `
+      query {
+        user(login: "BhavyaKansal20") {
+          contributionsCollection {
+            contributionCalendar {
+              weeks {
+                contributionDays {
+                  contributionCount
+                }
+              }
+            }
+          }
+        }
+      }
+    `
+  })
+});
     
     const body = await res.json();
     if (!body.data || !body.data.user) {
