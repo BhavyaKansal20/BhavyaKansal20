@@ -234,8 +234,11 @@ Building real-world AI systems &nbsp;·&nbsp; Scaling ML to production &nbsp;·&
 
 <div align="center">
 
-## **📈 &nbsp;Contribution Matrix**
+## **📊 &nbsp;Activity Timeline**
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BhavyaKansal20&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&area_color=00ffcc20&hide_border=false&border_color=00ffcc30&custom_title=Bhavya%27s%20Contribution%20Graph)](https://github.com/BhavyaKansal20)
+<br>
 
+<div align="center">
+  <img src="./activity-graph.svg" alt="Bhavya's Custom Graph" width="100%" />
 </div>
+
