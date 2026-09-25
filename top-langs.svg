@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 210" width="450" height="210" style="background:#0d1117; font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; border-radius:12px; border:1px solid rgba(0,255,204,0.3);">
+      <defs>
+        <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" style="stop-color:#00ffcc;stop-opacity:1" />
+          <stop offset="100%" style="stop-color:#0088cc;stop-opacity:1" />
+        </linearGradient>
+      </defs>
+      <text x="30" y="40" fill="url(#grad2)" font-size="20" font-weight="bold" letter-spacing="1">💻 Top Languages</text>
+      
+        <text x="30" y="82" fill="#ffffff" font-size="13" font-weight="500">Jupyter Notebook</text>
+        <text x="120" y="82" fill="#888888" font-size="11">90.3%</text>
+        <rect x="170" y="72" width="200" height="10" rx="5" fill="#222222" />
+        <rect x="170" y="72" width="200" height="10" rx="5" fill="#DA5B0B" />
+      
+        <text x="30" y="107" fill="#ffffff" font-size="13" font-weight="500">TypeScript</text>
+        <text x="120" y="107" fill="#888888" font-size="11">3.2%</text>
+        <rect x="170" y="97" width="200" height="10" rx="5" fill="#222222" />
+        <rect x="170" y="97" width="7.133906375117288" height="10" rx="5" fill="#3178c6" />
+      
+        <text x="30" y="132" fill="#ffffff" font-size="13" font-weight="500">Python</text>
+        <text x="120" y="132" fill="#888888" font-size="11">3.0%</text>
+        <rect x="170" y="122" width="200" height="10" rx="5" fill="#222222" />
+        <rect x="170" y="122" width="6.7162007444506555" height="10" rx="5" fill="#3572A5" />
+      
+        <text x="30" y="157" fill="#ffffff" font-size="13" font-weight="500">HTML</text>
+        <text x="120" y="157" fill="#888888" font-size="11">1.9%</text>
+        <rect x="170" y="147" width="200" height="10" rx="5" fill="#222222" />
+        <rect x="170" y="147" width="4.169811823128851" height="10" rx="5" fill="#e34c26" />
+      
+        <text x="30" y="182" fill="#ffffff" font-size="13" font-weight="500">JavaScript</text>
+        <text x="120" y="182" fill="#888888" font-size="11">0.9%</text>
+        <rect x="170" y="172" width="200" height="10" rx="5" fill="#222222" />
+        <rect x="170" y="172" width="1.9322354773272599" height="10" rx="5" fill="#f1e05a" />
+      
+    </svg>

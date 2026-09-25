@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 200" width="450" height="200" style="background:#0d1117; font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; border-radius:12px; border:1px solid rgba(0,255,204,0.3); box-shadow: 0 4px 10px rgba(0,255,204,0.1);">
+      <defs>
+        <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" style="stop-color:#00ffcc;stop-opacity:1" />
+          <stop offset="100%" style="stop-color:#0088cc;stop-opacity:1" />
+        </linearGradient>
+      </defs>
+      <text x="30" y="40" fill="url(#grad1)" font-size="20" font-weight="bold" letter-spacing="1">🚀 Github Analytics</text>
+      
+      <g transform="translate(30, 70)" font-size="14" fill="#ffffff" font-weight="500">
+        <text x="0" y="15">⭐ Total Stars:</text>
+        <text x="180" y="15" fill="#00ffcc" font-weight="bold">21</text>
+        
+        <text x="0" y="45">🔥 Total Commits:</text>
+        <text x="180" y="45" fill="#00ffcc" font-weight="bold">1822</text>
+        
+        <text x="0" y="75">🎯 Total PRs:</text>
+        <text x="180" y="75" fill="#00ffcc" font-weight="bold">0</text>
+        
+        <text x="0" y="105">🐛 Total Issues:</text>
+        <text x="180" y="105" fill="#00ffcc" font-weight="bold">0</text>
+      </g>
+      
+      <g transform="translate(250, 70)" font-size="14" fill="#ffffff" font-weight="500">
+        <text x="0" y="15">📦 Repositories:</text>
+        <text x="130" y="15" fill="#00ffcc" font-weight="bold">19</text>
+
+        <text x="0" y="45">⚡ Contributions:</text>
+        <text x="130" y="45" fill="#00ffcc" font-weight="bold">1999</text>
+        
+        <text x="0" y="75">🔥 Current Streak:</text>
+        <text x="130" y="75" fill="#00ffcc" font-weight="bold">109</text>
+        
+        <text x="0" y="105">🏆 Max Streak:</text>
+        <text x="130" y="105" fill="#00ffcc" font-weight="bold">109</text>
+      </g>
+    </svg>
