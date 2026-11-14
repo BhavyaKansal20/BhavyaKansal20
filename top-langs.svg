@@ -8,7 +8,7 @@
       <text x="30" y="40" fill="url(#grad2)" font-size="20" font-weight="bold" letter-spacing="1">💻 Top Languages</text>
       
         <text x="30" y="82" fill="#ffffff" font-size="13" font-weight="500">Jupyter Notebook</text>
-        <text x="120" y="82" fill="#888888" font-size="11">90.3%</text>
+        <text x="120" y="82" fill="#888888" font-size="11">89.7%</text>
         <rect x="170" y="72" width="200" height="10" rx="5" fill="#222222" />
         <rect x="170" y="72" width="200" height="10" rx="5" fill="#DA5B0B" />
       
@@ -23,13 +23,13 @@
         <rect x="170" y="122" width="6.7162007444506555" height="10" rx="5" fill="#3572A5" />
       
         <text x="30" y="157" fill="#ffffff" font-size="13" font-weight="500">HTML</text>
-        <text x="120" y="157" fill="#888888" font-size="11">1.9%</text>
+        <text x="120" y="157" fill="#888888" font-size="11">2.0%</text>
         <rect x="170" y="147" width="200" height="10" rx="5" fill="#222222" />
-        <rect x="170" y="147" width="4.169811823128851" height="10" rx="5" fill="#e34c26" />
+        <rect x="170" y="147" width="4.38869871858258" height="10" rx="5" fill="#e34c26" />
       
         <text x="30" y="182" fill="#ffffff" font-size="13" font-weight="500">JavaScript</text>
-        <text x="120" y="182" fill="#888888" font-size="11">0.9%</text>
+        <text x="120" y="182" fill="#888888" font-size="11">1.4%</text>
         <rect x="170" y="172" width="200" height="10" rx="5" fill="#222222" />
-        <rect x="170" y="172" width="1.9323201531088667" height="10" rx="5" fill="#f1e05a" />
+        <rect x="170" y="172" width="3.1873563628251866" height="10" rx="5" fill="#f1e05a" />
       
     </svg>
